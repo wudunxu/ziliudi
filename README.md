@@ -21,7 +21,7 @@
 
 ## 稳定地址
 
-- [世界各地的8000多个公共IPTV频道](iptv.md)
+- [世界各地的8000多个公共IPTV频道](https://github.com/iptv-org/iptv/blob/master/README.md)
 
 全国可用直播源：
 
