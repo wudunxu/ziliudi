@@ -93,17 +93,6 @@ IPTV提供商列表。
 - [LyngSat Stream](http://www.lyngsat-stream.com/) 公共链接到互联网上传输的3018个线性电视频道和2963个线性无线电频道。
 - [FreetuxTV WebTV Manager](http://database.freetuxtv.net/site/index) - WebTV和Web Radio的免费数据库。
 - [CXTv](http://www.cxtvlive.com/) 来自世界各地的1308个电视频道和287个摄像机。
-- [Televisión de Costa Rica en vivo](http://www.costaricaenvivo.net/) - 哥斯达黎加直播频道。
-- [TelevisiónDominicana en vivo](http://www.televisiondominicanaenvivo.com/) - 多米尼加共和国直播频道。
-- [Televisión de Honduras en vivo](http://www.canalesdehondurasenvivo.com/) - 洪都拉斯直播频道。
-- [Televisión de Guatemala en vivo](https://www.guatemalaenvivo.net/) - 危地马拉直播频道。
-- [Canales del Salvador](http://www.canalesdelsalvadorenvivo.com/) 萨尔瓦多直播频道。
-- [Canales de Bolivia en vivo](http://www.canalesbolivianosenvivo.com/) - 玻利维亚直播频道。
-- [Canales Ecuatorianos en vivo](https://www.canalesecuatorianosenvivo.com/) - 厄瓜多尔直播频道。
-- [Happy Watch 99](https://happywatch99.com/) - 高棉直播和泰国电视，电影和电视剧。
-- [Haiti Broadcasting](https://hbiptv.com/) - 海地的直播频道。
-- [AfghanLive TV](http://www.afghanlive.tv/) - 阿富汗直播电视频道。
-- [Connecktik TV](http://connectik.tv/) - 喀麦隆直播电视频道。
 - [Necro IPTV](https://necroiptv.com/) 提供所有优质的英国，爱尔兰，德国，土耳其，阿拉伯语，美国和加拿大频道。
 - [Edem.tv](https://edem.tv/) - 超过400个俄罗斯IPTV频道和4天的节目存档。
 
