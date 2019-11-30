@@ -36,10 +36,10 @@
 - [CCTV+卫视+上海江苏等地方台-咪咕代理源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+上海江苏等地方台-咪咕代理源.m3u)
 - [CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u)
 - [CCTV+卫视+地方台-安徽农大.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/安徽农大.txt)
-- [CCTV+卫视-天途云.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/天途云.txt)
+- [终极.m3u8](https://raw.githubusercontent.com/shiburuna/ziliudi/master/m3u/终极.m3u)
 - [国内电视台直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/国内.m3u) (CCTV、各大卫视、上千个地方台)
 - [台湾香港海外直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港海外.m3u) 10月已更新(台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国)
--[终极.m3u8】(https://raw.githubusercontent.com/shiburuna/ziliudi/master/m3u/终极.m3u)
+
 
 ## 工具
 
