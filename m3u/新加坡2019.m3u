@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5253176/16x9/947/533/ae942ff62b59f223ea6a9edacf1da744/Uf/channel-5.png" group-title="SINGAPORE",Mediacorp Channel 5
+http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5166818/16x9/947/533/e298594e61926869a7a2e9b2ab5d3073/qA/channel-8.png" group-title="SINGAPORE",Mediacorp Channel 8
+http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" group-title="SINGAPORE",Mediacorp Channel U
+http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
