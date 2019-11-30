@@ -39,39 +39,7 @@
 - [CCTV+卫视-天途云.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/天途云.txt)
 - [国内电视台直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/国内.m3u) (CCTV、各大卫视、上千个地方台)
 - [台湾香港海外直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港海外.m3u) 10月已更新(台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国)
-- [爱奇艺CIBN华数NewTV轮播直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/爱奇艺CIBN华数NewTV轮播.m3u)
-- [景区直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/全国景区源.m3u)
 
-各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商：
-- [北京联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/北京联通.m3u)
-- [北京移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/北京移动IPTV.m3u)
-- [山西联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山西联通iptv.m3u)
-- [陕西电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/陕西电信.m3u)
-- [安徽电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/安徽电信IPTV.m3u)
-- [福建移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/福建移动iptv.m3u)
-- [福建移动2IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/福建移动2.m3u)
-- [贵州联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/贵州联通.m3u)
-- [云南移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/云南移动.m3u)
-- [四川电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/四川电信IPTV.m3u)
-- [重庆电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/重庆电信IPTV.m3u)
-- [四川成都电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/四川成都电信IPTV.m3u)
-- [湖南电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/湖南电信IPTV.m3u)
-- [广东电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/广东电信IPTV.m3u)
-- [广西联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/广西联通IPTV.m3u)
-- [河北电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/河北电信IPTV.m3u)
-- [上海电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/上海电信iptv.m3u)
-- [江苏电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/江苏电信.m3u)
-- [江苏南京电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/江苏南京电信.m3u)
-- [江苏移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/江苏移动iptv.m3u)
-- [浙江移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/浙江移动IPTV.m3u)
-- [辽宁联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁联通.m3u)
-- [黑龙江移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动iptv.m3u)
-- [黑龙江移动2IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动.m3u)
-- [内蒙古联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/内蒙古联通.m3u)
-- [山东电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东电信IPTV带台标.m3u)
-- [山东移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东移动TV.m3u)
-- [山东联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东联通iptv.m3u)
-- [山东青岛联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东青岛联通.m3u)
 
 ## 工具
 
@@ -109,9 +77,9 @@
 
 #### Android
 
-- [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv)
+- [IPTV PRO](http://yx.bsh.me/29742.html)
 - [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
-  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
+ 
 
 #### PlayStation 4 / Xbox One
 
@@ -152,10 +120,10 @@ IPTV提供商列表。
 
 IPTV频道的EPG（电子节目指南）来源。
 
-- [EPG for IPTV](https://www.iptv-epg.com/) - EPG服务提供商，为全球IPTV提供个性化的电子节目指南。
-- [epg.streamstv.me](http://epg.streamstv.me/epg/) 欧亚大陆和北美频道的节目指南。
-- [IPTVX|one](https://iptvx.one/viewtopic.php?f=12&t=4&sid=5d7f43099b396af229d5961ec746fc14) 主要用于CIS频道的节目指南。
-- [i.mjh.nz](http://i.mjh.nz/) 来自澳大利亚，新西兰和南非的频道的节目指南。
+- [中国电视EPG](http://epg.51zmt.top:8000/) - EPG服务提供商，提供央视、地方卫视及港澳台各大电视台的节目预告。
+
+
+
 
 ## 工具类
 
@@ -170,8 +138,4 @@ IPTV频道的EPG（电子节目指南）来源。
 - [直播源在线监测工具](http://cha.znds.com)
 - 电视直播源管理助手PC端
 
-## 插件
 
-## 视频教程
-
-## 文章
