@@ -48,7 +48,7 @@
 
 - [Potplayer for Windows](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) 免费开放源代码的便携式跨平台媒体播放器。
 - [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
-- [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
+   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
 
 #### iOS
 
