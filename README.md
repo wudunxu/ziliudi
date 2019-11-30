@@ -1,4 +1,4 @@
-<p align="center"><img src="img/IPTV.jpg" alt="iptv" width="auto" height="150"><img src="img/M3U.jpg" alt="iptv" width="auto" height="150"</p>
+<p align="center"><img src="img/1223.jpg" alt="iptv" width="auto" height="150"><img src="img/screen-1.jpg" alt="iptv" width="auto" height="150"</p>
 
 # 直播源相关资源汇总
 
@@ -18,24 +18,17 @@
 
 
 ### 更新
- - 20191118
-     - 新增各地运营商的 IPTV 地址
-     - 更新全国可用直播源
- - 20191030
-     - 更新世界各地 IPTV 频道
-     - 更新 IPTV 工具
- - 20180614
-    - 更新 CCTV等世界杯相关HD播放源
+ 
 
 ## 稳定地址
 
 - [世界各地的8000多个公共IPTV频道](iptv.md)
 
 全国可用直播源：
-- [央视+卫视+NewTV-来自广西移动直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/央视+卫视+NewTV广西移动源.m3u)
+
 - [CCTV+卫视+上海江苏等地方台-咪咕代理源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+上海江苏等地方台-咪咕代理源.m3u)
 - [CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u)
-- [CCTV+卫视+地方台-安徽农大.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/安徽农大.txt)
+
 - [终极.m3u8](https://raw.githubusercontent.com/shiburuna/ziliudi/master/m3u/终极.m3u)
 - [国内电视台直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/国内.m3u) (CCTV、各大卫视、上千个地方台)
 - [台湾香港海外直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港海外.m3u) 10月已更新(台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国)
@@ -47,7 +40,7 @@
 
 #### Windows
 
-- [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) 免费开放源代码的便携式跨平台媒体播放器。
+- [Potplayer for Windows](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) 免费开放源代码的便携式跨平台媒体播放器。
 - [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
 
