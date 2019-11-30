@@ -75,8 +75,6 @@ http://cloud-play.hhalloy.com/live/440b3d3c474813d7ead7d3a795978e69.flv
 http://cloud-play.hhalloy.com/live/833d6cdeed807b755e6c449832b26621.flv
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="海外台",HBOHD
 http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="海外台",HBOHD
-http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.m3u8
 #EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="海外台",HBOHits
 http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
 #EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="海外台",HBOSignature
@@ -85,24 +83,16 @@ http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
 http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
 #EXTINF:-1 tvg-id="6166" tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="海外台",DiscoveryAsia
 http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外台",DiscoveryAsia
-http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="海外台",Discovery
 http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.flv
 #EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="海外台",Discovery科学
 http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.flv
 #EXTINF:-1 tvg-id="283" tvg-name="国家地理悠人频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png" group-title="海外台",国家地理悠人频道
 http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
-#EXTINF:-1 tvg-id="283" tvg-name="国家地理悠人频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png" group-title="海外台",国家地理悠人频道1
-http://pili-live-hdl.qhmywl.com/dsdtv/0293b493509468a0a896adea05ad5e30.m3u8
 #EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="海外台",国家地理野生频道
 http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
-#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="海外台",国家地理野生频道1
-http://pili-live-hdl.qhmywl.com/dsdtv/a4540237835700ece1fc1e54ce826125.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="海外台",国家地理频道
 http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="海外台",国家地理1
-http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.m3u8
 #EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="海外台",新加坡亚洲新闻
 http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视台",CHC高清电影
