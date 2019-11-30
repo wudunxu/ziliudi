@@ -43,7 +43,7 @@ http://39.135.36.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ys
 http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/eYrh4vhQVYU/hqdefault.jpg" group-title="海外台",新传媒8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="海外台",NHK华语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="海外台",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外台",Wakuwaku
 http://pili-live-hdl.qhmywl.com/dsdtv/6fab3a8298ba5097394c5fdcdea8ea81.m3u8
