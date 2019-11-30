@@ -40,9 +40,9 @@
 
 #### Android
 
-- [IPTV PRO](http://yx.bsh.me/29742.html)
-- [nplayer](http://yx.bsh.me/26545.html)
-- [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
+- [IPTV PRO](http://yx.bsh.me/29742.html) 简洁易用的安卓IPTV应用
+- [nplayer](http://yx.bsh.me/26545.html)  支持流媒体播放的强大的媒体播放器
+- [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器，手机略微复杂
 
 #### Windows
 
