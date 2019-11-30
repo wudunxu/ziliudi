@@ -38,11 +38,24 @@
 
 支持IPTV流的应用程序。
 
+#### Android
+
+- [IPTV PRO](http://yx.bsh.me/29742.html)
+- [nplayer](http://yx.bsh.me/26545.html)
+- [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
+
 #### Windows
 
 - [Potplayer for Windows](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) 免费开放源代码的便携式跨平台媒体播放器。
 - [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
+
+#### iOS
+
+- [GSE SMART IPTV](https://apps.apple.com/us/app/gse-smart-iptv/id1028734023) 完整的用户定义的高级IPTV解决方案，用于实时和非实时电视/流。
+- [Movie Stream: Watch Smart IPTV ](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244) - 启用Chromecast的应用程序，可让您将收藏的视频从移动设备流式传输到电视。
+- [nPlayer](https://apps.apple.com/cn/app/nplayer/id1116905928) - 支持播放列表文件：CUE、M3U、PLS
+
 
 #### MacOS
 
@@ -62,16 +75,9 @@
     5. 第三行不用管;
     6. 点 save 即可;
 
-#### iOS
 
-- [GSE SMART IPTV](https://apps.apple.com/us/app/gse-smart-iptv/id1028734023) 完整的用户定义的高级IPTV解决方案，用于实时和非实时电视/流。
-- [Movie Stream: Watch Smart IPTV ](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244) - 启用Chromecast的应用程序，可让您将收藏的视频从移动设备流式传输到电视。
-- [nPlayer](https://apps.apple.com/cn/app/nplayer/id1116905928) - 支持播放列表文件：CUE、M3U、PLS
 
-#### Android
 
-- [IPTV PRO](http://yx.bsh.me/29742.html)
-- [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
  
 
 #### PlayStation 4 / Xbox One
