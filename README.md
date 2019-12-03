@@ -63,25 +63,8 @@
 - [Kodi](https://kodi.tv/) - 具有库支持的免费跨平台媒体播放器。
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
 
-#### AppleTV
-
-- [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801)
-  - 食用指南
-    1. 打开iPlayTV 点击 ➕号;
-    2. 选择 Remote Playlist File;
-    3. 第一行随意输入一个名字;
-    4. 第二行输入上面给你的地址;
-    5. 第三行不用管;
-    6. 点 save 即可;
 
 
-
-
- 
-
-#### PlayStation 4 / Xbox One
-
-- [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) 客户端服务器媒体播放器。为了通过Plex App观看IPTV，可以使用 [Cigaras / IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) 插件。
 
 ## 提供者
 
