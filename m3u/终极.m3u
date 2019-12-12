@@ -53,9 +53,9 @@ http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="海外台",BBCWorldNews
 http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
-#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="海外台",BBCLifestyle
+#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="https://raw.githubusercontent.com/shiburuna/ziliudi/master/img/BBCLifestyle.jpg" group-title="海外台",BBCLifestyle
 http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv
-#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="海外台",BBCEarth
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="https://raw.githubusercontent.com/shiburuna/ziliudi/master/img/BBC EARTH.png" group-title="海外台",BBCEarth
 http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
 #EXTINF:-1 tvg-id="717" tvg-name="FoxNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxNews.png" group-title="海外台",FoxNews
 http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
