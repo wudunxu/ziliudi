@@ -102,7 +102,7 @@ http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视台",金鹰纪实
 http://klglive.imgo.tv/nn_live/nn_x64/aWQ9SllKU01QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHM,/JYJSMPP360.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视台",浙江卫视
-http://ivi.bupt.edu.cn/hls/zjhd..m3u8
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视台",东方卫视
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视台",江苏卫视
