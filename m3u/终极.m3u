@@ -39,11 +39,9 @@ http://39.135.36.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ys
 http://39.135.36.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2fJbtYz8kEYu99sUSfTSd48Av%2fzOzjC1
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="海外台",CNN
 http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/eYrh4vhQVYU/hqdefault.jpg" group-title="海外台",新传媒8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="海外台",NHK华语视界
+#EXTINF:-1 tvg-id="" tvg-name="NHKChinese" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="海外台",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外台",Wakuwaku
+#EXTINF:-1 tvg-id="" tvg-name="Wakuku" tvg-logo="https://img.isuper.tv/live-tv/wakuwaku-japan-live.jpg" group-title="海外台",Wakuwaku
 http://pili-live-hdl.qhmywl.com/dsdtv/6fab3a8298ba5097394c5fdcdea8ea81.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="海外台",SkyNEWS
 http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
@@ -117,8 +115,6 @@ http://liveali.ifeng.com/live/FHZW.m3u8
 http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-id="517" tvg-name="星卫HD电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="香港",星卫HD电影
 http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",美亚高清电影台
-http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="香港",tvN
 http://cloud-play.hhalloy.com/live/060e39b20b7616170ba4ba63c53bc336.flv
 #EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="香港",CHANNEL[V]
