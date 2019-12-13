@@ -8,7 +8,7 @@ http://39.135.36.141:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/shiburuna/ziliudi/master/img/CCTV4.png" group-title="中央台",CCTV4
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/shiburuna/ziliudi/master/img/CCTV4.png" group-title="中央台",CCTV4HD
-http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+http://39.134.134.28/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8?icpid=88888888&from=4&ocs=2_39.134.134.28_80&popid=4&hms_devid=443&prioritypopid=4&vqe=3
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/shiburuna/ziliudi/master/img/CCTV5.png" group-title="中央台",CCTV5
 http://39.135.36.146:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004794&owchid=ystenlive&owsid=1106497909461092492&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRFIaTOfcD93c7ACh3puyaR1v%2bioI39cfseenlxp5u9UfADU6BCDl7v7CTGKuGZw1d
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/shiburuna/ziliudi/master/img/CCTV5.png" group-title="中央台",CCTV5HD
